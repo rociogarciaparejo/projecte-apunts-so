@@ -1,0 +1,16 @@
+TEMA 2: PERMISOS EN LINUX
+========================
+TIPUES DE PERMISOS:
+-r (read): lectura
+-w (write): escriptura
+-x (execute): execució
+
+GRUPS D'USUARIS:
+-Propietari (owner)
+-Grup (group)
+-Altres (others)
+
+COMANDA CHMOD:
+chmod 755 fitxer.txt
+chmod u+x script.sh
+chmomd go-w document.txt
