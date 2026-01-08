@@ -1,1 +1,1 @@
-#Els meus apunts de Sistemes Opertatius . ROCIOGARCIA
+# Els meus apunts de Sistemes Opertatius . ROCIOGARCIA
